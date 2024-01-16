@@ -9,6 +9,7 @@ This is a simple console-based Tik-Tak-Toe game implemented in Python. In this g
 
 The game is played on a 3x3 board. The user and computer take turns making a move by entering the position as in a 3x3 matrix.
 The computer plays randomly by selecting a valid (available) position in the game.
+(see example example.ipynb file for how to play)
 
 ## Getting Started
 
