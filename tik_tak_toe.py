@@ -153,7 +153,7 @@ def play():
   #game loop
   while(not validate(mat)):
 
-    if(matSize == 10):
+    if(matSize == 9):
       print("TIEEE : No Possible Moves ")
       break
 
@@ -172,3 +172,5 @@ def play():
     print()
 
 play()
+
+print("GAME OVER")
